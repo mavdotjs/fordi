@@ -1,5 +1,5 @@
 1. Figure out how to recursively convert data
-2. Figure out how to parse the converted data (maybe with peggy.js)
+2. Figure out how to parse the converted data (with peggy.js)
 
 
 # Conversion
