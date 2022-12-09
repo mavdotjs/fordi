@@ -1,0 +1,24 @@
+{
+  "name": "fordi",
+  "version": "0.0.0",
+  "description": "Form data conversion lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mavthedev/fordi.git"
+  },
+  "keywords": [
+    "data",
+    "form",
+    "ts"
+  ],
+  "author": "mavthedev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mavthedev/fordi/issues"
+  },
+  "homepage": "https://github.com/mavthedev/fordi#readme"
+}
