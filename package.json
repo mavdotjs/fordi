@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/mavthedev/fordi/issues"
   },
-  "homepage": "https://github.com/mavthedev/fordi#readme"
+  "homepage": "https://github.com/mavthedev/fordi#readme",
+  "dependencies": {
+    "@types/node": "^18.11.12"
+  }
 }
